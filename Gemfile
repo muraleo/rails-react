@@ -38,6 +38,9 @@ gem 'rails-controller-testing'
 # Add wepacker for Javascript management
 gem 'webpacker', '~> 3.5'
 
+# Add react Gem for rails
+gem 'react-rails'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
